@@ -1,0 +1,24 @@
+.first{
+    background-color: rgb(159, 182, 182);
+    text-align: end;
+    width: 50%;
+    margin-bottom: 80%px;
+
+}
+.first h1{
+    color: brown;
+    text-align: center;
+
+}
+
+.first p{
+    color: rgb(89, 42, 165);
+    text-align: center;
+    
+}
+.image{
+    margin-left: 800px;
+    margin-bottom: 80px;
+   color: coral;
+   border: coral solid black;
+}
