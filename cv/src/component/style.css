@@ -17,10 +17,11 @@
     text-align: center;
     
 }
-.image{
+.image img{
     margin: 100px;
    color: coral;
    border: coral solid black;
    float: left;
    width: 10%;
+   height: 150px;
 }
