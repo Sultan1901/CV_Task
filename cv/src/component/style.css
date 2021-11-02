@@ -1,8 +1,9 @@
 .first{
     background-color: rgb(159, 182, 182);
     text-align: end;
-    width: 50%;
+    width: 70%;
     margin-bottom: 80%px;
+    float: right;
 
 }
 .first h1{
@@ -17,8 +18,9 @@
     
 }
 .image{
-    margin-left: 800px;
-    margin-bottom: 80px;
+    margin: 100px;
    color: coral;
    border: coral solid black;
+   float: left;
+   width: 10%;
 }
